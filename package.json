@@ -1,0 +1,22 @@
+{
+  "name": "alpha-anki",
+  "version": "1.0.0",
+  "description": "Project to make cloze flashcards...eventually planning to make full-scale Anki-style app.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jusrockinout/alpha-Anki.git"
+  },
+  "author": "Gary Newton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jusrockinout/alpha-Anki/issues"
+  },
+  "homepage": "https://github.com/jusrockinout/alpha-Anki#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}

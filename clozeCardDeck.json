@@ -1,0 +1,22 @@
+[
+  {
+    "partial": "This is test #1",
+    "cloze": "This"
+  },
+  {
+    "partial": "This is test #2",
+    "cloze": "This"
+  },
+ {
+    "partial": "This is test #3",
+    "cloze": "This"
+  },
+ {
+    "partial": "This is test #4",
+    "cloze": "This"
+  },
+{
+    "partial": "This is test #5",
+    "cloze": "This"
+  },
+]
